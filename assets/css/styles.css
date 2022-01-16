@@ -1,0 +1,20 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+#logo_main {
+    width: 70px;
+}
+
+#img_main{
+    width: 25vw;
+}
+
+.navbar {
+    background-color: lightcoral;
+}
+
+.btn {
+    background-color: lightcoral;
+}
